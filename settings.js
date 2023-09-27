@@ -26,7 +26,7 @@ global.ownernomer = "Antisocial humidity" //ur owner number2
 global.ownername = "Antisocial humidity" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "Nigeria, Lagos, Ikeja" //ur location
+global.location = "Nigeria, Enugu, Enugu" //ur location
 
 //new
 global.botname = "The joker bot"
