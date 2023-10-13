@@ -4,9 +4,9 @@ const fs = require("fs")
 //aumto presence update
 global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autoblockmorroco = true  //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = true //auto kick spammer (true to on, false to off)
+global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -22,27 +22,27 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['2348107582855'] //ur owner number
-global.ownernomer = "Antisocial humidity" //ur owner number2
-global.ownername = "Antisocial humidity" //ur owner name
+global.ownernomer = "2348107582855" //ur owner number2
+global.ownername = "𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅 //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "Nigeria, Enugu, Enugu" //ur location
+global.location = "ghana, nigeria, nigeria" //ur location
 
 //new
-global.botname = "The joker bot"
-global.ownernumber = 'Antisocial humidity'
-global.ownername = 'Antisocial humidity'
-global.ownerNumber = ["2348107582855@s.whatsapp.net"]
+global.botname = "𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅 𝐵𝛩𝑇"
+global.ownernumber = '233246274343'
+global.ownername = '𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅'
+global.ownerNumber = ["233246274343@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dp3FX8QmGbtGsRd60no3Zy"
+global.wagc = "https://chat.whatsapp.com/J4ZTkmKFqbD9woxH96IQhr"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "Antisocial Humidity\n\n"
+global.author = "𝑇𝛨𝛯 𝐽𝛩𝛫𝛯𝑅 𝐵𝛩𝑇\n\n"
 global.creator = "2348107582855@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
